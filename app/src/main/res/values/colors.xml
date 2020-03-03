@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1f62af</color>
+    <color name="colorPrimary1">#3A7FC2</color>
+    <color name="colorPrimaryDark">#008577</color>
+    <color name="black">#000A08</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimaryLight">#1E88E5</color>
+    <color name="btn_steps_text_color">#FFFFFF</color>
+
+    <color name="btn_submit_text_color">#FFFFFF</color>
+    <color name="textColor">#337ab7</color>
+    <color name="label_color">@color/colorPrimary</color>
+    <color name="highlited_color">@android:color/holo_red_dark</color>
+
+    <color name="label">#1f62af</color>
+    <color name="gray">#1285858B</color>
+    <color name="white">#ffffff</color>
+    <color name="overlay_dark_50">#80000000</color>
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+    <color name="overlay_light_30">#4DFFFFFF</color>
+
+    <color name="color_5">#a12643</color>
+
+</resources>
